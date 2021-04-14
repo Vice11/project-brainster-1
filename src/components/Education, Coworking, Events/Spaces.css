@@ -1,0 +1,77 @@
+.btn-black:link,
+.btn-black:visited {
+  background-color: black;
+  color: #fcd232;
+}
+
+.btn-black:hover {
+  background-color: burlywood;
+  color: white;
+  transition: all 0.3s ease-out;
+  text-decoration: none;
+}
+
+/* .btn-black {
+  animation: moveInBottom 0.5s ease-out 0.75s;
+  animation-fill-mode: backwards;
+  font-weight: 500 !important;
+  padding: 0.8rem 2rem !important;
+  text-decoration: none !important;
+} */
+
+.bm {
+  text-transform: uppercase;
+  border-radius: 4px;
+  -webkit-font-smoothing: subpixel-antialiased !important;
+  box-shadow: 0 6px 12px #00000070;
+  display: inline-flex;
+  -webkit-box-align: center;
+  align-items: center;
+  font-size: 1rem !important;
+  white-space: nowrap;
+  transition: all 0.2s;
+  position: relative;
+  overflow: hidden;
+}
+
+h2 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.container {
+  max-width: 90%;
+  display: block;
+}
+
+.img-round {
+  border-radius: 10px;
+}
+
+.img-responsive {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+img {
+  border: 0;
+  vertical-align: middle;
+}
+.photo img {
+  box-shadow: 10px 15px 25px 0 rgb(0 0 0 / 20%);
+  transition: all 0.5s;
+  margin-top: -1rem;
+}
+.d-flex {
+  justify-content: center;
+  align-items: center;
+}
+
+.partnership-p {
+    font-size: 25px;
+}
+
+.partnership {
+    margin-top: 5rem;
+}

@@ -1,0 +1,29 @@
+.navBtn {
+  border-radius: 4px;
+  border: none;
+  font-weight: bold;
+  box-shadow: 0 8px 16px rgb(0 0 0 / 40%);
+}
+
+.btn-primary {
+  background-color: black;
+  color: rgb(241, 210, 125);
+}
+
+.btn-medium {
+  padding: 8px 12px;
+  font-size: 15px;
+}
+
+.btn-large {
+  padding: 12px 24px;
+  font-size: 20px;
+}
+
+.btn-medium:hover,
+.btn-large:hover {
+  background-color: burlywood;
+  transition: all 0.3s ease-out;
+  text-decoration: none;
+}
+

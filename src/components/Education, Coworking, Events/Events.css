@@ -1,0 +1,28 @@
+.eventcard {
+  margin-top: 2.598rem;
+  border-radius: 4px;
+}
+
+.eventcard-body {
+  padding: 1rem 0 !important;
+}
+
+.eventcard-text {
+  padding: 0.3rem 1rem;
+  font-size: 0.8rem;
+}
+.eventcard:hover {
+  transform: scale(1.03);
+  box-shadow: 0px 0px 15px 0px;
+}
+.icon-align {
+  text-align: right;
+}
+.arrow-right {
+  width: 2rem;
+  height: 1rem;
+}
+
+.py-10-4 {
+  padding: 1rem 0 4rem 0;
+}

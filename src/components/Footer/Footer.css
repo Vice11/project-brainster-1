@@ -1,0 +1,39 @@
+.main-footer {
+  color: rgb(0, 0, 0);
+  background-color: rgb(243, 243, 243);
+  padding-top: 3rem;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+/* .container {
+  margin-top: auto;
+} */
+
+.col-sm {
+  color: rgb(116, 116, 116);
+}
+
+ul {
+  list-style: none;
+}
+
+.fb-icon {
+  font-size: 40px;
+  color: rgb(6, 108, 204);
+}
+
+.insta-icon {
+  font-size: 40px;
+  color: rgb(220, 20, 160);
+}
+
+.in-icon {
+  font-size: 40px;
+  color: rgb(6, 108, 204);
+}
+
+.footer-logo {
+  margin-left: 1rem;
+}
